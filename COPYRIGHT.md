@@ -1,3 +1,10 @@
+# Copyright 2025 Dennis Heimbigner
+
+This software and documentation is copyrighted using the
+[BSD 3-clause license](https://opensource.org/license/bsd-3-clause).
+
+##################################################
+
 BSD 3-Clause License
 
 Copyright (c) 2025, Dennis Heimbigner

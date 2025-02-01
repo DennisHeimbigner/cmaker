@@ -1,0 +1,9 @@
+README.md
+MANIFEST.md
+COPYRIGHT.md
+src/Makefile
+src/cmaker.y
+src/XGetopt.h
+src/XGetopt.c
+src/vutils.h
+src/tst_vutils.c
